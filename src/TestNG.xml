@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="magnus.jalatechnologies">
+  <test name="Menu , popup, links and new employee">
+    <classes>
+      <class name="Test.CREATENEWEMPLOYEE" />
+      <class name="Test.MoreTest" />
+       <class name="Test.POPUPtest" />
+        <class name="Test.Linkstest" />
+    </classes>
+  </test>
+</suite>
